@@ -1,2 +1,6 @@
 # Product-Manager
-产品经理相关文档及读书笔记
+###行业报告
+- [36k](https://36kr.com/)
+- [虎嗅](https://www.huxiu.com/)
+- [艾瑞](http://www.iresearch.cn/)
+- [talkingdata](http://www.talkingdata.com/)
