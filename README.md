@@ -6,3 +6,7 @@
 - [talkingdata](http://www.talkingdata.com/)
 ### 项目管理
 - tapd（腾讯）
+
+
+### 读书笔记
+- [《交互思维》](http://www.talkingdata.com/)
